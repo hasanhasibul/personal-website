@@ -1,0 +1,132 @@
+.about-div{
+    padding:6%;
+    width: 45%;
+     float: left;
+}
+h3 p{
+    color: black;
+    font-size: 19px;
+}
+h1{
+    color: chocolate;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+.image-div{
+    padding: 5%;
+    width: 30%;
+    float: left;
+}
+img{
+   width: 100%;
+}
+.btnid{
+    background-color: chocolate;
+    padding: 10px 20px;
+    color: black;
+    text-transform: uppercase;
+}
+.section-header{
+    height: 600px;
+    background-image: url("../images/header-bg.png");
+    background-repeat: repeat;
+    background-position:left;
+    margin-top: 30px;
+
+}
+.section-header1{
+    height: 600px;
+    background-image: url("../images/biography-bg.png");
+    background-repeat: repeat;
+    background-position:right;
+    margin-top: 30px;
+
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.section-header2{
+    height: 600px;
+    background-image: url("../images/latest-work-bg.png");
+    background-repeat: repeat;
+    background-position:right;
+    margin-top: 30px;
+    padding: 0px 50px 0px 50px;
+
+}
+.section-header2 h4{
+    font-size: 35px;
+    color: chocolate;
+    text-transform: capitalize;
+    text-align: center;
+   
+
+}
+.image-leatest{
+    width: 30%;
+    padding: 1%;
+    float: left;
+}
+.testimonial h1{
+    color:black;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 35px;
+    padding: 30px;
+    font-weight: 500;
+    
+}
+.testimonial h2{
+    color:black;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 35px;
+    
+    font-weight: 600px;
+    
+}
+.testimonial p{
+    color:black;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 400px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family:sans-serif;
+    
+}
+.massege{
+    width: 900px;
+    height: 200px;
+    background-color:orange;
+    margin: auto;
+    border-radius: 10px;
+}
+.section-header3{
+    background-image: url("../images/footer-bg.png");
+    background-position:left ;
+    background-repeat: no-repeat;
+}
+.massege h5{
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 400px;
+    text-transform: capitalize;
+     padding-top: 50px;
+}
+.massege h1{
+    color: white;
+    text-align: center;
+    font-size: 37px;
+    font-weight: 700px;
+    text-transform: lowercase;
+}
+    footer h6{
+      text-align: center;
+      font-family: sans-serif;
+      font-size: 14px;
+      padding: 40px;
+      color:lightgrey;
+    }
